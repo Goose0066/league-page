@@ -7,7 +7,11 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Just a Bunch of Idiots Pretending to Know How to Draft a Dynasty Team</p>
+  <p>Founded in 2014, "The League" had it's humble beginnings at the storied Pi Kapp House at 777 Deakin Ave. The founders of this at the time fledgling redraft league were looking for any way possible to talk shit about the others that they lived with. In line with the broke college kids that made up the league, the trophie was small and simple, a bronze cup on a wooden base.</p>
+  <p>Fast forward to the 2021 season, the inevitable happened. The trophie, with seven names now sharpied to the base (unfortunetly with most of them being Kyle), broke in the mail on the way from Wisconsin to it's now resting place in California. Befitting of the incomes it's members now had, the league decided to go all out, purchasing a huge trophie to be based from winner to winner. The trophie lists all previous winners and future winners in golden plaques at the base, though bragging rights and shit-talking were still the main prize.</p>
+  <p>2022 marked the beginning of a new era. At the annual league meeting, an idea was put forward, moving to a keeper league and ultimately a dynasty setup. The league moved offices from ESPN to the Sleeper App to accomidate this shit, and strategy became paramount.</p>
+  <p>In astonding commitment to building a keeper and dynasty franchise, a few of the managers have even begun to have kids, gromming them to be the next generation of managers to take over their teams. The mini managers are being heavily indoctrinated into the fantasy lifestyle, and will be expected to take an active role as soon as they can successfully put together a coherent trade offer.</p>
+  <p>In contract to the addition of the mini managers, some managers are still as bad as they always have been. Those that have never one the 'ship, those that make shitty trades regularly, and those that we kicked out of the league for not setting their lineups on a regular basis (RIP Jake Snarr and Colton "Chach" Clark. We keep them in our thoughts and prayers as we continue to make better decisions.</p>
 `;
 
 /*   STEP 3   */
